@@ -1,0 +1,8 @@
+title: aiara
+email: aparna@aiara.ai
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aiara.ai" # your site's origin, e.g. https://forestry.io
+plugins:
+  - jekyll-feed
+  - jekyll-menus
